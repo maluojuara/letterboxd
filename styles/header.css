@@ -1,0 +1,19 @@
+.header{
+    background-color: var(--background-header);
+    padding: 0.5em 16em;
+    display: flex;
+    color: var(--text-color-grey);
+}
+
+.header__logo{
+    width: 70%;
+    height: auto;
+}
+
+.header__menu{
+    display: flex;
+}
+
+.menu__user{
+    display: flex;
+}

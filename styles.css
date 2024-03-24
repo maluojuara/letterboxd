@@ -1,0 +1,6 @@
+@import url("styles/header.css");
+
+:root{
+    --background-header: #15181c;
+    --text-color-grey: #9ca9b9;
+}
